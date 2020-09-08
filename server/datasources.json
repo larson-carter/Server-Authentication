@@ -1,13 +1,7 @@
 {
   "db": {
-    "host": "localhost",
-    "port": 27017,
-    "url": "",
-    "database": "auth",
-    "password": "DataBasePassword!",
+    "url": "mongodb+srv://larsoncarter:DataBasePassword!@cluster0.lrwjw.mongodb.net/<dbname>?retryWrites=true&w=majority",
     "name": "db",
-    "user": "larsoncarter",
-    "useNewUrlParser": true,
     "connector": "mongodb"
   }
 }
